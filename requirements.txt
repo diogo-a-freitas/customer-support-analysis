@@ -1,0 +1,19 @@
+# data science
+numpy
+pandas
+
+transformers
+torch
+pytesseract
+scikit-learn
+
+# tensorflow==2.15    # For both Intel and Apple silicon
+
+python-dotenv
+
+#clean text
+nltk
+textblob
+
+#feather files
+pyarrow
